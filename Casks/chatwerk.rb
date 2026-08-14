@@ -7,7 +7,7 @@ cask "chatwerk" do
     desc "Session manager for Claude Code"
     homepage "https://github.com/sewerkde/chatwerk"
 
-    depends_on macos: ">= :sonoma"
+            depends_on macos: :sonoma
 
     app "Chatwerk.app"
 
