@@ -1,6 +1,6 @@
 cask "chatwerk" do
-    version "0.1.2"
-    sha256 "0080df54b82a315725cb0460aed472a0150d1ff36e405318c59c94bc9c5559dd"
+    version "0.1.3"
+    sha256 "4b59f01bba60f6f4fd143736ab2195a0976a73f70b677abdaed88c98e31409bd"
 
     url "https://github.com/sewerkde/chatwerk/releases/download/v#{version}/Chatwerk.dmg"
     name "Chatwerk"
